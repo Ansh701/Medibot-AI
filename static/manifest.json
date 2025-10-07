@@ -1,0 +1,23 @@
+{
+  "name": "MediBot AI - Healthcare Assistant",
+  "short_name": "MediBot AI",
+  "description": "Advanced AI-powered medical assistant for healthcare information",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2563EB",
+  "theme_color": "#2563EB",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/83it6sH.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/83it6sH.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["health", "medical", "productivity"]
+}

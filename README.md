@@ -27,7 +27,6 @@ graph LR
     E --> F[🔍 Similarity Search<br/>Cosine Distance]
     F --> G[🧠 RAG System<br/>Context Injection]
     G --> H[💬 Response Generation<br/>LLM Cascade]
-```
 
 ### **🎯 Machine Learning Engineering Highlights**
 
@@ -65,7 +64,6 @@ graph LR
 
 ### **📊 Model Performance Metrics**
 
-```
 # Real performance data from the system
 EMBEDDING_PERFORMANCE = {
     "model": "sentence-transformers/all-MiniLM-L6-v2",
@@ -83,14 +81,12 @@ RAG_SYSTEM_METRICS = {
     "query_classification_accuracy": 0.94,
     "context_window": "4000 tokens optimized"
 }
-```
 
 ### **🧪 Advanced AI Techniques Implemented**
 
 <details>
 <summary><b>🔍 Semantic Search Engine</b></summary>
 
-```
 # Custom similarity search with medical context weighting
 class MedicalSemanticSearch:
     def __init__(self, model_name="all-MiniLM-L6-v2"):
@@ -111,13 +107,12 @@ class MedicalSemanticSearch:
         )
         
         return self.rerank_by_medical_relevance(results, medical_boost)
-```
+
 </details>
 
 <details>
 <summary><b>🔗 RAG Implementation with Medical Specialization</b></summary>
 
-```
 # Production-grade RAG system for medical queries
 class AdvancedMedicalRAG:
     def __init__(self):
@@ -142,13 +137,13 @@ class AdvancedMedicalRAG:
         # 4. Streaming response with medical verification
         for chunk in self.response_generator.stream(query, medical_context):
             yield self.verify_medical_accuracy(chunk)
-```
+
 </details>
 
 <details>
 <summary><b>🎯 Query Classification & Medical NLP</b></summary>
 
-```
+
 # Medical domain classification system
 MEDICAL_CATEGORIES = {
     "symptoms": ["fever", "cough", "headache", "fatigue"],
@@ -176,7 +171,7 @@ def classify_medical_query(query: str) -> Dict[str, float]:
         "urgency_level": urgency_level,
         "medical_entities": medical_features
     }
-```
+
 </details>
 
 ---
@@ -195,7 +190,7 @@ def classify_medical_query(query: str) -> Dict[str, float]:
 
 ### **📈 Vector Database Optimization**
 
-```
+
 # Production-scale vector database configuration
 VECTOR_CONFIG = {
     "index_type": "HNSW",  # Hierarchical Navigable Small World
@@ -221,7 +216,7 @@ class MedicalVectorIndex:
         semantic_results = self.semantic_search(query, weight=alpha)
         lexical_results = self.bm25_search(query, weight=1-alpha)
         return self.fusion_rerank(semantic_results, lexical_results)
-```
+
 
 ### **🧪 Data Science Experiments & A/B Testing**
 

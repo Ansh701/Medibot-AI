@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Hero](./hero.png)  
-
 ![MediBot AI Banner](https://img.shields.io/badge/🤖%20AI-Medical%20Assistant-FF6B6B?style=for-the-badge)
 [![RAG System](https://img.shields.io/badge/🔗%20RAG-Retrieval%20Augmented-4ECDC4?style=for-the-badge)](https://github.com/yourusername/medibot-ai)
 [![Vector DB](https://img.shields.io/badge/📊%20Vector%20DB-23,436%20Chunks-45B7D1?style=for-the-badge)]
@@ -282,10 +280,17 @@ curl -sSL https://raw.githubusercontent.com/yourusername/medibot-ai/main/setup.s
 ## 🌟 Let's Connect
 
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-FF6B6B?style=for-the-badge)](https://portfolio-jaye.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/ansh0/)
-[![Email](https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge)](mailto:anshupadhyay701@gmail.com)
+  <a href="https://portfolio-jaye.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-FF6B6B?style=for-the-badge" alt="Portfolio Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/ansh0/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:anshupadhyay701@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge" alt="Email Badge">
+  </a>
 </div>
+
 
 ✨ **Transforming healthcare accessibility through scalable AI/ML engineering.**
 

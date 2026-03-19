@@ -5,7 +5,7 @@
 ![MediBot AI Banner](https://img.shields.io/badge/🤖%20AI-Medical%20Assistant-FF6B6B?style=for-the-badge)
 [![RAG System](https://img.shields.io/badge/🔗%20RAG-Retrieval%20Augmented-4ECDC4?style=for-the-badge)](https://github.com/yourusername/medibot-ai)
 [![Vector DB](https://img.shields.io/badge/📊%20Vector%20DB-23,436%20Chunks-45B7D1?style=for-the-badge)]
-[![Live Demo](https://img.shields.io/badge/🔴%20Live-Demo-4CAF50?style=for-the-badge)](https://medibot-ai-498g.onrender.com)
+[![Live Demo](https://img.shields.io/badge/🔴%20Live-Demo-4CAF50?style=for-the-badge)]([https://medibot-ai-498g.onrender.com](https://huggingface.co/spaces/Ansh010106/medibot-ai))
 
 **🎯 Showcasing Advanced AI/ML Engineering • Data Processing • Production ML Systems**
 
